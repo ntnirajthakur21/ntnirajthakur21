@@ -8,6 +8,12 @@
 -       nirajthakur.com.np     
 -       9815785428
 
+
+#### 🌱 I’m currently learning
+- 🔮 Modern JS
+- 🤓 Typescript
+- 🕸 React
+
 <!---
 ntnirajthakur21/ntnirajthakur21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
