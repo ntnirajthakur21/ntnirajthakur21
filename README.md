@@ -2,7 +2,7 @@
       a MERN stack Developer from Nepal
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, React, Nodejs, ExpressJs, MongoDb
-- 💞️ I’m looking to collaborate on wed development task
+- 💞️ I’m looking to collaborate on web development task
 - 📫 How to reach me   
 -       ntnirajthakur21@gmail.com    
 -       nirajthakur.com.np     
