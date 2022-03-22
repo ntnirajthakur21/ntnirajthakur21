@@ -8,7 +8,7 @@
 -       nirajthakur.com.np     
 -       9815785428
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/developer.niraj/)](https://www.facebook.com/cos.sungwoo/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/developer.niraj/)](https://www.facebook.com/developer.niraj/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ntnirajthakur21@gmail.com)](mailto:ntnirajthakur21@gmail.com)
 
 
