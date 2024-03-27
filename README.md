@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ntnirajthakur21 
-      a MERN stack Developer from Nepal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, React, Nodejs, ExpressJs, MongoDb
-- 💞️ I’m looking to collaborate on web development task
+- 👋 Hi, I’m a Frontend Developer 
+- 👀 I've solid foundation in web development, and frameworks like React
+- 🌱 I’m currently learning WebGl and GIS using for web
+- 💞️ I’m looking to collaborate on development task
 - 📫 How to reach me   
 -       ntnirajthakur21@gmail.com    
 -       nirajthakur.com.np     
@@ -11,8 +10,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ntnirajthakur21@gmail.com)](mailto:ntnirajthakur21@gmail.com)
 
 
-#### 🌱 I’m currently learning
-- 🔮 Modern JS
+#### 🌱 My experties lies on
+- 🔮 Javascript
 - 🤓 Typescript
 - 🕸 React
 
